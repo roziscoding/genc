@@ -1,0 +1,12 @@
+{
+  "name": "gendoc",
+  "version": "1.0.0",
+  "description": "Script simples que gera CPF e CNPJ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rogério Munhoz",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": "./bin/index.js"
+}
