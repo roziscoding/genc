@@ -1,7 +1,7 @@
 {
   "name": "genc",
   "version": "1.0.1",
-  "description": "Script simples que gera CPF e CNPJ",
+  "description": "Ferramenta de linha de comando que gera CPF ou CNPJ sem dependências externas",
   "bin": "bin/index.js",
   "dependencies": {},
   "devDependencies": {},
