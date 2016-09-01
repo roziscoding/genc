@@ -1,6 +1,6 @@
 {
   "name": "genc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Script simples que gera CPF e CNPJ",
   "bin": "bin/index.js",
   "dependencies": {},
