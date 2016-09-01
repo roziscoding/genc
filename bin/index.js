@@ -114,5 +114,5 @@ if (tp && tp in types) {
         }
     }
 } else {
-    console.log('Uso: gendoc f|j [quantidade (>1)] [y|n]');
+    console.log('Uso: genc f|j [quantidade (>1)] [y|n]');
 }

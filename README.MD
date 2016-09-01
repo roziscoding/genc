@@ -1,10 +1,10 @@
 **Instalação**
 
-`npm i -g gendoc`
+`npm i -g genc`
 
 **Uso**
-- Gerar CPF: `gendoc f`
-- Gerar CNPJ: `gendoc j`
+- Gerar CPF: `genc f`
+- Gerar CNPJ: `genc j`
 
 **Parâmetros**
 - Tipo de documento (Obrigatório): `f | j` 

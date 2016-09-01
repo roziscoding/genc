@@ -1,5 +1,5 @@
 {
-  "name": "gendoc",
+  "name": "genc",
   "version": "1.0.0",
   "description": "Script simples que gera CPF e CNPJ",
   "scripts": {
