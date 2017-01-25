@@ -2,7 +2,7 @@
   "name": "genc",
   "version": "1.1.0",
   "description": "Ferramenta de linha de comando que gera CPF ou CNPJ sem dependências externas",
-  "bin": "index.js",
+  "bin": "./index.js",
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
